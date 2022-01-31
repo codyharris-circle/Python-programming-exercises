@@ -11,7 +11,7 @@ Level 3	Advanced. He should use Python to solve more complex problem using more 
 #----------------------------------------#
 Question
 Hints
-Solution
+Solutions
 
 3.	Questions
 
